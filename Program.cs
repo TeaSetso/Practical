@@ -12,6 +12,8 @@ namespace Practical
         {
             Console.WriteLine("What is your Favourite Soccer Team : ");
             string Fav = Console.ReadLine();
+            Console.WriteLine("Do you think your team will win the Champions Cup");
+            string ans = Console.ReadLine();
         }
     }
 }
