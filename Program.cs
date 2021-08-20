@@ -14,7 +14,7 @@ namespace Practical
             string Fav = Console.ReadLine();
             Console.WriteLine("Do you think your team will win the Champions Cup");
             string ans = Console.ReadLine();
-        
+            Console.WriteLine("Thank you for completing this survey");
         }
     }
 }
